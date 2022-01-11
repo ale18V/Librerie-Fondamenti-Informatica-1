@@ -1,11 +1,5 @@
 #pragma once
-/*
-*	MATRICOLA:	0001044234
-*	NOME:		Alessandro
-*	COGNOME:	Bombarda
-* 
-*	PROVA:		
-*/
+
 #ifndef COMMONDEF_H
 #define COMMONDEF_H
 
