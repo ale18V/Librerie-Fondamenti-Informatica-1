@@ -1,11 +1,5 @@
 #pragma once
-/*
-*	MATRICOLA:	0001044234
-*	NOME:		Alessandro
-*	COGNOME:	Bombarda
-*
-*	PROVA:
-*/
+
 #ifndef MYLISTELEMENT_H
 #define MYLISTELEMENT_H
 #include <stdio.h>

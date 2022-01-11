@@ -1,11 +1,5 @@
 #define _CRT_SECURE_NO_DEPRECATE
-/*
-*	MATRICOLA:	0001044234
-*	NOME:		Alessandro
-*	COGNOME:	Bombarda
-*
-*	PROVA:
-*/
+
 #include "myArray.h"
 #include <stdio.h>
 #include <stdlib.h>

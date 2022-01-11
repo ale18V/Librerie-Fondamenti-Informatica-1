@@ -1,11 +1,5 @@
 #pragma once
-/*
-*	MATRICOLA:	0001044234
-*	NOME:		Alessandro
-*	COGNOME:	Bombarda
-*
-*	PROVA:
-*/
+
 #ifndef MYLIST_H
 #define MYLIST_H
 #include "commondef.h"
