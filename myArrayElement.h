@@ -5,10 +5,8 @@
 #include <stdio.h>
 #include "commondef.h"
 
-/*
 
-A meno che il tipo non sia primitivo
-Inserire la sua definizione in COMMONDEF.H */
+
 typedef int myArrayElement;
 
 
