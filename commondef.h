@@ -5,6 +5,7 @@
 
 #define endL printf("\n")
 
+//Macro utilizzate come valore di ritorno di readMyArrayElement e readMyListElement
 #define OK 1
 #define ERROR 0
 #define IGNORE -1
