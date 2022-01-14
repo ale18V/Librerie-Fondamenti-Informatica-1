@@ -4,10 +4,8 @@
 #define MYLISTELEMENT_H
 #include <stdio.h>
 #include "commondef.h"
-/*
 
-A meno che il tipo non sia primitivo
-Inserisci la sua definizione in COMMONDEF.H */
+
 typedef int myListElement;
 
 
